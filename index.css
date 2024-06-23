@@ -1,0 +1,14 @@
+div{
+    padding-left:450px;
+    padding-top:100px;
+}
+.box
+{
+  
+    background-color: rgb(207, 229, 218);
+  width: 400px;
+  text-align:center;
+  border: 15px solid rgb(235, 67, 55);
+  padding: 50px;
+  margin: 20px;
+}
